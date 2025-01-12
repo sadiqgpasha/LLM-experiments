@@ -1,4 +1,4 @@
 # LLM-experiments
 Initial learner's experiments
 
-As a begineer to LLM, following are the topics that must be learnt. 
+As a beginner to LLM, following are the topics that must be learnt. 
